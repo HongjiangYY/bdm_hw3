@@ -3,7 +3,8 @@
 
 # In[ ]:
 
-
+!pip install pyspark
+!pip install pandas
 import csv
 import json
 import pandas as pd
